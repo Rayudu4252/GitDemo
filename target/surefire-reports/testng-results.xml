@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2021-05-28T22:52:10Z" finished-at="2021-05-28T22:52:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2021-05-28T22:52:10Z" finished-at="2021-05-28T22:52:10Z">
+      <class name="jai.hanuman.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="RestAPILogin()[pri:0, instance:jai.hanuman.MavenJava.RestAPITest@573f2bb1]" name="RestAPILogin" duration-ms="1" started-at="2021-05-28T22:52:10Z" finished-at="2021-05-28T22:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPILogin -->
+        <test-method status="PASS" signature="launchRestAPIBrowser()[pri:0, instance:jai.hanuman.MavenJava.RestAPITest@573f2bb1]" name="launchRestAPIBrowser" duration-ms="1" started-at="2021-05-28T22:52:10Z" finished-at="2021-05-28T22:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchRestAPIBrowser -->
+      </class> <!-- jai.hanuman.MavenJava.RestAPITest -->
+      <class name="jai.hanuman.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="appiumLogin()[pri:0, instance:jai.hanuman.MavenJava.AppiumTest@402f32ff]" name="appiumLogin" duration-ms="15" started-at="2021-05-28T22:52:10Z" finished-at="2021-05-28T22:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumLogin -->
+        <test-method status="PASS" signature="launchAppiumBrowser()[pri:0, instance:jai.hanuman.MavenJava.AppiumTest@402f32ff]" name="launchAppiumBrowser" duration-ms="0" started-at="2021-05-28T22:52:10Z" finished-at="2021-05-28T22:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAppiumBrowser -->
+      </class> <!-- jai.hanuman.MavenJava.AppiumTest -->
+      <class name="jai.hanuman.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="launchSeleniumBrowser()[pri:0, instance:jai.hanuman.MavenJava.SeleniumTest@5ae9a829]" name="launchSeleniumBrowser" duration-ms="0" started-at="2021-05-28T22:52:10Z" finished-at="2021-05-28T22:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSeleniumBrowser -->
+        <test-method status="PASS" signature="seleniumLoginLogin()[pri:0, instance:jai.hanuman.MavenJava.SeleniumTest@5ae9a829]" name="seleniumLoginLogin" duration-ms="0" started-at="2021-05-28T22:52:10Z" finished-at="2021-05-28T22:52:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumLoginLogin -->
+      </class> <!-- jai.hanuman.MavenJava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
